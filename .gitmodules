@@ -1,0 +1,6 @@
+[submodule "newcanmainboard_firmware"]
+	path = newcanmainboard_firmware
+	url = https://github.com/ryuzou/NewCanBoard_example
+[submodule "ros2_ws"]
+	path = ros2_ws
+	url = https://github.com/ryuzou/catchrobo2023_ros_ws
